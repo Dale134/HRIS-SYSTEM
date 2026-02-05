@@ -1,0 +1,126 @@
+🔄 REGISTRATION WORKFLOW (FINAL)
+🧩 STEP 1 — HR PRE-REGISTRATION (FOR ALL EMPLOYEES)
+A. EXISTING EMPLOYEES (Dati / Manual)
+
+HR/Admin will:
+
+Encode or import lahat ng employees sa system
+
+Required info:
+
+Employee ID
+
+Full Name
+
+Email
+
+Position
+
+Department
+
+Employment Type
+
+Date Hired
+
+Role Type (Teaching/Non-Teaching)
+
+System auto status:
+
+Pending Activation
+B. NEWLY HIRED EMPLOYEES
+
+HR/Admin will:
+
+Add new employee sa Admin Panel
+
+Same required fields as above
+
+System auto:
+
+Pending Activation
+
+📌 Pareho lang ang process ng dati at newly hired.
+
+🧩 STEP 2 — ACCOUNT REGISTRATION / ACTIVATION (EMPLOYEE SIDE)
+
+Employee opens:
+👉 Register / Activate Account Page
+
+Employee inputs ONLY:
+
+Employee ID
+
+Email Address
+
+Username
+
+Password
+
+Confirm Password
+
+Data Privacy Consent ✔️
+
+❌ Hindi sila mag-eencode ng:
+
+position
+
+department
+
+role
+
+employment type
+
+hire date
+
+🧩 STEP 3 — SYSTEM VALIDATION
+
+System checks:
+
+Employee exists in masterlist ✔️
+
+Email matches record ✔️
+
+Account not yet activated ✔️
+
+Username unique ✔️
+
+Password strong ✔️
+
+Kapag valid:
+
+Account Status = Active
+🧩 STEP 4 — FINAL RESULT
+
+Employee can now:
+
+Login
+
+Access dashboard
+
+Apply leave
+
+Receive notifications
+
+🔐 FINAL ACCOUNT STATUS FLOW
+HR Add Employee
+        ↓
+Pending Activation
+        ↓
+Employee Register / Activate
+        ↓
+Active Account
+📋 FINAL REGISTRATION FORM (OFFICIAL)
+
+Fields Only:
+
+Employee ID
+
+Email
+
+Username
+
+Password
+
+Confirm Password
+
+Data Privacy Checkbox
