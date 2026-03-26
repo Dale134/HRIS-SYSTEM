@@ -1,0 +1,17 @@
+----------------------------------
+INSTRUCTIONS FOR YOU (AI)
+----------------------------------
+
+- Do NOT generate the full system at once
+- Build the system step-by-step
+- Start with database design (ERD and tables)
+- Then proceed to:
+  1. Migrations
+  2. Models
+  3. Controllers
+  4. Routes
+  5. UI (Blade)
+
+- Explain each step clearly in simple terms
+- Wait for my confirmation before proceeding to the next step
+- Keep the code clean, organized, and beginner-friendly
